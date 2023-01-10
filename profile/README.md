@@ -11,4 +11,4 @@
 
 <p>Acompanhe nosso conteúdo sobre saúde, qualidade de vida e notícias do Sistema Unimed.</p>
 
-Site: <a href="http://www.unimed.coop.br/lins" target="_blank">Unimed Lins</a>.
+Site: [Unimed Lins](http://www.unimed.coop.br/lins)
