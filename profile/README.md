@@ -1,5 +1,5 @@
 
-![Unimed Lins](https://media.licdn.com/dms/image/D4D3DAQF7BoZKf1aRCw/image-scale_191_1128/0/1670334275446?e=1673978400&v=beta&t=GO7J8d2J9WTFf70AAlGPAq3ZuGeNtt8cM6epVl-ZTL8)
+![Unimed Lins](https://github.com/unimedlins/.github/blob/main/profile/banner.jpg)
 
 <h1>Unimed Lins</h1>
 
